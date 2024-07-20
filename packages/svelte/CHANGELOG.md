@@ -1,5 +1,11 @@
 # svelte
 
+## 5.0.0-next.193
+
+### Patch Changes
+
+- fix: reset hydrate node after `hydrate(...)` ([#12512](https://github.com/sveltejs/svelte/pull/12512))
+
 ## 5.0.0-next.192
 
 ### Patch Changes
